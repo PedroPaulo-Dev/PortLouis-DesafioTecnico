@@ -1,0 +1,13 @@
+node_modules/
+
+.env
+
+cypress/fixtures/user.json
+cypress.env.json
+
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+npm-debug.log*
+.eslintcache
